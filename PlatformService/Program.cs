@@ -8,6 +8,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(opt => opt.UseInMemoryDataba
 builder.Services.AddScoped<IPlatformRepository, PlatformRepository>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
