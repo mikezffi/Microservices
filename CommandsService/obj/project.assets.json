@@ -1061,19 +1061,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/mike/.nuget/packages/": {}
+    "/Users/acid_burn/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mike/Projects/Microservices/CommandsService/CommandsService.csproj",
+      "projectUniqueName": "/Users/acid_burn/projects/Microservices/CommandsService/CommandsService.csproj",
       "projectName": "CommandsService",
-      "projectPath": "/Users/mike/Projects/Microservices/CommandsService/CommandsService.csproj",
-      "packagesPath": "/Users/mike/.nuget/packages/",
-      "outputPath": "/Users/mike/Projects/Microservices/CommandsService/obj/",
+      "projectPath": "/Users/acid_burn/projects/Microservices/CommandsService/CommandsService.csproj",
+      "packagesPath": "/Users/acid_burn/.nuget/packages/",
+      "outputPath": "/Users/acid_burn/projects/Microservices/CommandsService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mike/.nuget/NuGet/NuGet.Config"
+        "/Users/acid_burn/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1138,7 +1138,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
