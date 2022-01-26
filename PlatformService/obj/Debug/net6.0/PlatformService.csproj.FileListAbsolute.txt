@@ -124,3 +124,4 @@
 /Users/acid_burn/projects/Microservices/PlatformService/obj/Debug/net6.0/ref/PlatformService.dll
 /Users/acid_burn/projects/Microservices/PlatformService/obj/Debug/net6.0/PlatformService.pdb
 /Users/acid_burn/projects/Microservices/PlatformService/obj/Debug/net6.0/PlatformService.genruntimeconfig.cache
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/RabbitMQ.Client.dll
