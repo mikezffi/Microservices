@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "saFBf8G+MsILKz34l3q+0sCr7QSD0qt6g1tRfXUuxps93iiZbvrJYSUERYzyQVVCFgvR9AkzNyg38nRtkH59bw==",
+  "dgSpecHash": "63l0BWoremEx3v7u5fOHuMrdcFZPqFjupRg98Evviz6Sik0dDk5gKpxjr9WggLm/VowAm+16DZlQmmKpEa1Odw==",
   "success": true,
   "projectFilePath": "/Users/acid_burn/projects/Microservices/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
     "/Users/acid_burn/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/acid_burn/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/acid_burn/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
+    "/Users/acid_burn/.nuget/packages/grpc.core.api/2.42.0/grpc.core.api.2.42.0.nupkg.sha512",
+    "/Users/acid_burn/.nuget/packages/grpc.net.client/2.42.0/grpc.net.client.2.42.0.nupkg.sha512",
+    "/Users/acid_burn/.nuget/packages/grpc.net.common/2.42.0/grpc.net.common.2.42.0.nupkg.sha512",
+    "/Users/acid_burn/.nuget/packages/grpc.tools/2.43.0/grpc.tools.2.43.0.nupkg.sha512",
     "/Users/acid_burn/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/acid_burn/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/acid_burn/.nuget/packages/microsoft.entityframeworkcore/6.0.0/microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

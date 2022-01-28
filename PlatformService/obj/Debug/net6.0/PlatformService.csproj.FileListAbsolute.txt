@@ -125,3 +125,10 @@
 /Users/acid_burn/projects/Microservices/PlatformService/obj/Debug/net6.0/PlatformService.pdb
 /Users/acid_burn/projects/Microservices/PlatformService/obj/Debug/net6.0/PlatformService.genruntimeconfig.cache
 /Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Google.Protobuf.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.AspNetCore.Server.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.Core.Api.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.Net.Client.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.Net.ClientFactory.dll
+/Users/acid_burn/projects/Microservices/PlatformService/bin/Debug/net6.0/Grpc.Net.Common.dll
